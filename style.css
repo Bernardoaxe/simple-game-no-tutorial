@@ -1,0 +1,35 @@
+.door {
+    height: 150px;
+    width: 100px;
+    background-color: orange;
+    margin: 150px 15px
+}
+
+.door:hover {
+    background-color: coral;
+}
+
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.display-row {
+    flex-direction: row ;
+
+}
+
+.text-aling-center{
+    text-align: center;
+}
+
+.margin-top-100px {
+    margin-top: 100px;
+}
+
+.h2-button {
+    display: inline-block;
+    padding: 25px 15px;
+    background-color: palevioletred;
+}
